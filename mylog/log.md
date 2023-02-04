@@ -43,3 +43,46 @@
 ### 이미지
 
 ![검색 프로토 타입](./imgs/prototype-search.png)
+
+## 채팅 페이지
+
+- Chat page
+
+  - apis
+
+    ```
+    페이지 접근 시 소켓 연결
+    /api/chat/:userId
+    ```
+
+  - Chat Component
+
+    - apis
+
+      ```
+
+      ```
+
+    - events
+
+      ```
+
+      ```
+
+  - Seats Component
+
+    - apis
+
+      ```
+
+      ```
+
+    - events
+
+      ```
+
+      ```
+
+### 이미지
+
+![검색 프로토 타입](./imgs/prototype-chat.png)
