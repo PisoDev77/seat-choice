@@ -33,8 +33,4 @@
 
 ### 이미지
 
-[검색 프로토 타입](./imgs/prototype-search.png)
-
-```
-
-```
+![검색 프로토 타입](./imgs/prototype-search.png)
