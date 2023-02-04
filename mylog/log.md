@@ -11,8 +11,8 @@
     - apis
 
       ```
-      좌석 목록을 검색 Submit
-      searchSeat
+      좌석 목록 조회
+      /api/theater_seat/:id
       ```
 
     - events
@@ -24,12 +24,21 @@
 
   - Seats Component
 
-    ```
-    좌석 리뷰 목록 조회
-    /api/reviews/:id
-    ```
+    - apis
 
-    - Seat Component
+      ```
+      좌석 리뷰 목록 조회
+      /api/reviews/:id
+      ```
+
+    - events
+
+      ```
+      좌석 목록 중 하나를 클릭
+      showReviews
+      ```
+
+  - Seat Component
 
 ### 이미지
 
